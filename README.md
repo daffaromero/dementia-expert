@@ -11,7 +11,7 @@ This project was made to satisfy: <b>Artificial Intelligence Assignment 1: Exper
 Requirements: Python 3 and Experta. 
 <ol>
   <li><a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Clone</a> the repository and extract the files to a folder of your choice.</li>
-  <li>Run a terminal of your choice in the folder you cloned the repository to.</li>
+  <li>Run a terminal of your choice in the folder where you extracted the files to.</li>
   <li><a href="https://experta.readthedocs.io/en/latest/installation.html">Install Experta</a> in that very same folder.</li>
   <li>When complete, run the dementia.py file in the terminal with the command <b>python dementia.py</b>.</li>
 </ol>
